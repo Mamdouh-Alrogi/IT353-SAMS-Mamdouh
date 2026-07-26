@@ -1,22 +1,27 @@
-# IT353-SAMS-Mamdouh
-# IT353 Student Activities Management System
+# IT353 Student Activities Management System (SAMS)
 
-Student:
-Mamdouh Faisal Alotaibi
+## Student Information
 
-ID:
-S210054939
+**Name:** Mamdouh Faisal Alotaibi
 
-Contribution
+**Student ID:** S210054939
+
+## Individual Contribution
 
 Worked on the Context Diagram.
 
-Identified external entities.
+Identified the external entities.
 
-Defined main data flows.
+Defined the main data flows between the external entities and the Student Activities Management System (SAMS).
 
-Tools Used
+## Tools Used
 
-Draw.io
+- Draw.io
+- GitHub Desktop
+- GitHub
 
-GitHub
+## Repository Structure
+
+- Context Diagram
+- Research
+- README
