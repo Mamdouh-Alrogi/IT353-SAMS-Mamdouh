@@ -1,0 +1,37 @@
+Student Activities Management System (SAMS)
+
+Main Data Flows
+
+Student → SAMS
+- Browse Activities
+- Register for Activities
+- Cancel Registration
+
+SAMS → Student
+- Notifications
+- Activity History
+- Activity Transcript
+
+Activity Organizer → SAMS
+- Create Activity
+- Update Activity
+- Record Attendance
+
+SAMS → Activity Organizer
+- Participant List
+- Activity Reports
+
+Student Affairs Department → SAMS
+- Approve Activities
+- Manage Activity Categories
+
+SAMS → Student Affairs Department
+- Statistics
+- Administrative Reports
+
+University Academic System → SAMS
+- Student Information
+- Graduation Status
+
+SAMS → University Academic System
+- Activity Transcript
