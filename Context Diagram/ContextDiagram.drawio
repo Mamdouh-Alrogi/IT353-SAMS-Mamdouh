@@ -1,69 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net">
   <diagram name="‫الصفحة-1‬" id="YG69PNOHAL7lIZZRnFEJ">
-    <mxGraphModel dx="2298" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="Wn654IUqBxV6FXFxPcpg-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="387.5" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="Student Activities Management System (SAMS)" vertex="1">
+          <mxGeometry height="120" width="260" x="530" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Student Activities&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Management System&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(SAMS)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="200" x="320" y="340" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="Student" vertex="1">
+          <mxGeometry height="70" width="220" x="550" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Student&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="320" y="70" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="Activity Organizer" vertex="1">
+          <mxGeometry height="70" width="220" x="180" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-31" edge="1" parent="1" source="Wn654IUqBxV6FXFxPcpg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" target="Wn654IUqBxV6FXFxPcpg-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="420" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="Student Affairs Department" vertex="1">
+          <mxGeometry height="70" width="260" x="920" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Activity Organizer&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="160" x="-20" y="370" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="Academic Information System" vertex="1">
+          <mxGeometry height="80" width="260" x="530" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Student Affairs Department&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="200" x="750" y="370" as="geometry" />
-        </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-35" edge="1" parent="1" source="Wn654IUqBxV6FXFxPcpg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Wn654IUqBxV6FXFxPcpg-1">
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-36" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-32" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-31" value="Activity Requests&#xa;(Browse, Register, Cancel)">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;University Academic System&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="200" x="320" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-27" edge="1" parent="1" source="Wn654IUqBxV6FXFxPcpg-1" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.34;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="Wn654IUqBxV6FXFxPcpg-4" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="590" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-30" edge="1" parent="1" source="Wn654IUqBxV6FXFxPcpg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="Wn654IUqBxV6FXFxPcpg-5">
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-37" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-31" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-32" value="Activity Details&#xa;Notifications&#xa;Participation History">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-33" edge="1" parent="1" source="Wn654IUqBxV6FXFxPcpg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.211;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.214;exitY=1.063;exitDx=0;exitDy=0;exitPerimeter=0;" target="Wn654IUqBxV6FXFxPcpg-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="140" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-34" edge="1" parent="1" source="Wn654IUqBxV6FXFxPcpg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Wn654IUqBxV6FXFxPcpg-2">
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-38" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-33" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-31" value="Create / Update Activities&#xa;Record Attendance&#xa;Generate Reports">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-49" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;Browse Activities&lt;br&gt;&amp;nbsp;Register&lt;br&gt;&amp;nbsp;Cancel Registration&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="230" x="153" y="170" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-39" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-31" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-33" value="Participant Information&#xa;Activity Reports">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-50" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;Notifications&lt;br&gt;&amp;nbsp;Activity History&lt;br&gt;&amp;nbsp;Activity Transcript&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="220" x="480" y="170" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-40" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-34" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-31" value="Approve Activities&#xa;Manage Categories">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-51" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Create Activity&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Update Activity&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Record Attendance&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Participant List&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Activity Reports&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="160" x="-19" y="450" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-41" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-31" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-34" value="Statistics&#xa;Administrative Reports">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-52" parent="1" style="text;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Approve Activities&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Manage Categories&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Statistics&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Administrative Reports&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="260" x="750" y="460" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-42" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-35" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-31" value="Student Information&#xa;Enrollment Status&#xa;Graduation Status">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wn654IUqBxV6FXFxPcpg-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt; ↑ Student Information&lt;br&gt;                     ↑ Graduation Status&lt;br&gt;                     ↓ Activity Transcript&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="230" x="310" y="750" as="geometry" />
+        <mxCell id="gm3CJ-XuWnEidaSa0G37-43" edge="1" parent="1" source="gm3CJ-XuWnEidaSa0G37-31" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;" target="gm3CJ-XuWnEidaSa0G37-35" value="Activity Participation Records">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
