@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Context Diagram - SAMS" id="SAMS_Context">
+    <mxGraphModel dx="2575" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="system" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Student Activities Management System (SAMS)" vertex="1">
+          <mxGeometry height="120" width="260" x="430" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="student" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student" vertex="1">
+          <mxGeometry height="70" width="220" x="450" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="organizer" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Activity Organizer" vertex="1">
+          <mxGeometry height="70" width="220" x="80" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="affairs" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Student Affairs Department" vertex="1">
+          <mxGeometry height="70" width="260" x="820" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="academic" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Academic Information System" vertex="1">
+          <mxGeometry height="80" width="260" x="430" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" edge="1" parent="1" source="student" style="endArrow=classic;html=1;" target="system" value="Activity Requests (Browse, Register, Cancel)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" edge="1" parent="1" source="system" style="endArrow=classic;html=1;" target="student" value="Activity Details, Notifications, History">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1" edge="1" parent="1" source="organizer" style="endArrow=classic;html=1;" target="system" value="Create Activities, Update Activities, Attendance">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o2" edge="1" parent="1" source="system" style="endArrow=classic;html=1;" target="organizer" value="Participant Information, Reports">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" edge="1" parent="1" source="affairs" style="endArrow=classic;html=1;" target="system" value="Approve Activities, Manage Categories">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" edge="1" parent="1" source="system" style="endArrow=classic;html=1;" target="affairs" value="Statistics, Administrative Reports">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ac1" edge="1" parent="1" source="academic" style="endArrow=classic;html=1;" target="system" value="Student Information, Enrollment Status, Graduation Status">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ac2" edge="1" parent="1" source="system" style="endArrow=classic;html=1;" target="academic" value="Activity Participation Records">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
