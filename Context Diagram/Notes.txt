@@ -1,14 +1,25 @@
-Task:
-Develop the Context Diagram for the Student Activities Management System (SAMS).
-
-Main Process:
 Student Activities Management System (SAMS)
 
-External Entities:
-- Student
-- Activity Organizer
-- Student Affairs Department
-- University Academic System
+Student:
+Mamdouh Faisal Alotaibi
 
-Next Step:
-Create the Context Diagram in Draw.io.
+Student ID:
+S210054939
+
+Task:
+Develop the Context Diagram.
+
+Work Completed:
+- Identified external entities.
+- Identified the main data flows.
+- Designed the Context Diagram using Draw.io.
+
+External Entities:
+1. Student
+2. Activity Organizer
+3. Student Affairs Department
+4. University Academic System
+
+Tools Used:
+- Draw.io
+- GitHub
