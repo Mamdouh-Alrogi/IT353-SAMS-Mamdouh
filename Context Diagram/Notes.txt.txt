@@ -1,0 +1,14 @@
+Task:
+Develop the Context Diagram for the Student Activities Management System (SAMS).
+
+Main Process:
+Student Activities Management System (SAMS)
+
+External Entities:
+- Student
+- Activity Organizer
+- Student Affairs Department
+- University Academic System
+
+Next Step:
+Create the Context Diagram in Draw.io.

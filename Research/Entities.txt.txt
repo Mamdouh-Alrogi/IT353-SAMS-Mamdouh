@@ -1,0 +1,25 @@
+Student Activities Management System (SAMS)
+
+External Entities
+
+1. Student
+- Browse activities
+- Register
+- Cancel registration
+- View activity history
+- Receive notifications
+
+2. Activity Organizer
+- Create activity
+- Update activity
+- Record attendance
+- View participant list
+
+3. Student Affairs Department
+- Approve activities
+- Manage categories
+- Generate reports
+
+4. University Academic System
+- Provide student information
+- Receive activity transcript
